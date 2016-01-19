@@ -15,4 +15,20 @@
         android:layout_height="wrap_content"
         android:text="@string/button_run_scheduler"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试一下吧"
+        android:id="@+id/btn_next"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试一下吧2"
+        android:id="@+id/btn_next2"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试subject"
+        android:id="@+id/btn_next3"/>
+
 </LinearLayout>
